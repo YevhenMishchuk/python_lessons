@@ -1,2 +1,2 @@
 # python_lessons
-my_lessons
+Exercise on python
